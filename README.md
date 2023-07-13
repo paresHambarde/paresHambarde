@@ -1,11 +1,11 @@
 ### Hi there 👋
 <p align="center">
 <a href="https://github.com/paresHambarde">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yash Ingole;Devops+%7C+Flutter+%7C+Firebase;AWS+%7C+GCP+%7C+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=paresHambarde;Devops+%7C+Flutter+%7C+Firebase;AWS+%7C+GCP+%7C+Java" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://github.com/paresHambarde">
-    <img src="https://github-stats-alpha.vercel.app/api?username=yashingole&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=paresHambarde&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </br>
 
