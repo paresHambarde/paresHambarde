@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
 <a href="https://github.com/paresHambarde">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=paresHambarde;Devops+%7C+Flutter+%7C+Firebase;AWS+%7C+GCP+%7C+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=paresHambarde;JAVA+%7C+Python+%7C+ML;AWS+%7C+GCP+%7C+Java" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://github.com/paresHambarde">
@@ -11,7 +11,7 @@
 
 * 📖 Pursuing BTECH in YCCE
 
-* 🎓 DevOps engineer proficient in AWS, GCP, Java, and Flutter.
+* 🎓 Passionate Java developer.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
