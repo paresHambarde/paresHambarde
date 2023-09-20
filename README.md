@@ -9,7 +9,7 @@
 </a>
 </br>
 
-* 📖 Pursuing BTECH in YCCE
+* 📖 Pursuing BTECH in CSE at YCCE.
 
 * 🎓 Passionate Java developer.
 
